@@ -1,0 +1,8 @@
+/data/raw/
+/data/ecommerce.db
+/data/ecommerce.db-*
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+.venv/
+.env
